@@ -11,8 +11,11 @@
 | namen | mailn | phone numbern |
 
 ### Example:
+```
 Name,Mail@a.com,111111
 Other Name,other@mail.com,11222
+Another Name,mail2@glego.com,222222
+```
 
 ### Important:
 Vcard files imported through iCloud will store text with special characters like Néstor as NÃ©stor.
