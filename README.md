@@ -13,3 +13,6 @@
 ### Example:
 Name,Mail@a.com,111111
 Other Name,other@mail.com,11222
+
+### Important:
+Vcard files imported through iCloud will store text with special characters like Néstor as NÃ©stor.
